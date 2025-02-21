@@ -1,11 +1,11 @@
 # Scoreboard API Module Specification
 
 ## Features
-Websocket Scoreboard Updates: to reflects the top 10 user scores in real-time.
+Websocket Scoreboard Updates: to reflects the top 10 user scores in real-time.    
 Score Updates via API: Users gain points through an action.
 
 ## Diagram
-
+![](https://github.com/haidang666/99tech/blob/master/src/problem6/diagram.png)
 
 ## API Endpoints
 ### `GET /api/v1/leaderboard`
